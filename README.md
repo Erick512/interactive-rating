@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./rating.jpg)
+<img width="1080" alt="Screen Shot 2022-05-30 at 3 53 59 PM" src="https://user-images.githubusercontent.com/72674082/171068386-294cbd79-554a-4538-b445-163779b0148c.png">
 
 ### Links
 
