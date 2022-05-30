@@ -44,7 +44,7 @@ Users should be able to:
 ## Author
 
 - Website - [Erick Alonso](https://www.erickalonso.com)
-- Frontend Mentor - [@ErickAlonso512](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Erick512](https://www.frontendmentor.io/profile/Erick512)
 - Twitter - [@ErickAlonso512](https://www.twitter.com/erickalonso512)
 
 
