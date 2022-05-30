@@ -1,0 +1,145 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+main {
+    background-color: hsl(213, 19%, 18%);
+    width: clamp(350px, 50%, 400px);
+    height: 420px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+main.hide {
+    display: none;
+}
+
+
+main div {
+    width: 90%;
+    margin: auto;
+    padding: 40px 0;
+}
+
+main div svg {
+    border-radius: 50%;
+    padding: 15px 15px;
+    background-color: rgb(45, 53, 63);
+}
+
+main div p{
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+    line-height: 23px;
+}
+
+main div ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-inline-start: 0;
+}
+
+main div ul li {
+    list-style: none;
+    padding: 15px 20px;
+    border-radius: 50%;
+    color: hsl(216, 12%, 54%);
+    background-color: rgb(45, 53, 63);
+}
+
+main div ul li:hover {
+    color: white;
+    background-color: hsl(217, 12%, 63%);
+}
+
+main div ul li.active {
+    color: white;
+    background-color: hsl(25, 88%, 62%);
+}
+
+main div button {
+    width: 100%;
+    height: 45px;
+    border: none;
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+    background-color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+}
+
+main div button:hover {
+    color: hsl(25, 95%, 69%);
+    background-color: white;
+}
+
+/* thank you view */
+
+.thankYou {
+    display: block;
+    background-color: hsl(213, 19%, 18%);
+    width: clamp(350px, 50%, 400px);
+    height: 420px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.thankYou.hide {
+    display: none;
+}
+
+.thankYou div {
+    font-display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.thankYou h3 {
+    font-weight: 300;
+    width: 250px;
+    padding: 10px 0;
+    margin: 30px auto;
+    background-color: rgb(45, 53, 63);
+    border-radius: 20px;
+    color: hsl(25, 95%, 69%);
+}
+
+.thankYou h2{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.thankYou p {
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.attribution a{
+    text-decoration: none;
+    color: hsl(25, 95%, 69%);
+}
+
+.attribution {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+}
+
+/* @media (max-width: 450px) {
+    main {
+        width: 400px;
+    }
+} */
