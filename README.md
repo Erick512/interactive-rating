@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,8 +43,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.erickalonso.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/erickalonso512)
+- Website - [Erick Alonso](https://www.erickalonso.com)
+- Frontend Mentor - [@ErickAlonso512](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@ErickAlonso512](https://www.twitter.com/erickalonso512)
 
 
