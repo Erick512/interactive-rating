@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://erick512.github.io/interactive-rating/))
+- Live Site URL: [Interactive rating](https://erick512.github.io/interactive-rating/)
 
 ## My process
 
